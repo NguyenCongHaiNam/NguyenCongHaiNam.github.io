@@ -9,8 +9,8 @@ main:
   - title: "HTB"
     url: /htb/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Rev tutorial"
+    url: /rev-tutorial/
         
   - title: "CTF"
     url: /year-archive/
